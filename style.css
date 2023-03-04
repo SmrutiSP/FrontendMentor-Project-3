@@ -47,6 +47,7 @@
     font-size: 1rem;
     font-weight: 700;
     padding: 0.625rem 1.5rem;
+    cursor: pointer;
 }
 
 .second-part>section:nth-child(1) header p {
@@ -69,6 +70,7 @@
     font-size: 1rem;
     font-weight: 700;
     padding: 1rem 2.375rem;
+    cursor: pointer;
 }
 
 .second-part>section:nth-child(2) {
@@ -161,6 +163,7 @@
     font-size: 1rem;
     font-weight: 700;
     padding: 0.625rem 1.5rem;
+    cursor: pointer;
 }
 
 @media (max-width: 650px) {
