@@ -1,0 +1,4 @@
+How to make responsive image ?
+Apply width: 100% and height: auto
+Then scale the container box of the image.
+
